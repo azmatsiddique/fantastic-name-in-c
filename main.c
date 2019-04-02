@@ -1,3 +1,4 @@
+//azmatsididuqe
 #include<stdio.h>
 void name(void);
 int main()
